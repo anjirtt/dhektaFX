@@ -1,5 +1,4 @@
-{
-  "tokens":[
-  "8116514559"
+[
+  "8116514559",
+  "8112323956:AAGIMdBWzMQRvbegFTvc4wdPatygXkySq18"
 ]
-}
