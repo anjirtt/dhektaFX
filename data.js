@@ -1,4 +1,5 @@
 [
   "8116514559",
-  "8112323956:AAGIMdBWzMQRvbegFTvc4wdPatygXkySq18"
+  "8112323956:AAGIMdBWzMQRvbegFTvc4wdPatygXkySq18",
+  "7264730931:AAGArIh8nIEtWaanYw9isvy1cdez4LSa_LI"
 ]
